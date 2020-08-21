@@ -1,0 +1,12 @@
+{
+    "id": "Slowly",
+    "name": "Slowly",
+    "version": "1.0.0",
+    "description": "Slowly",
+    "main": "index.js",
+    "author": "Beraka <hola@beraka.cl>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://web.getslowly.com/home"
+    }
+}
